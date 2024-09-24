@@ -1,0 +1,4 @@
+/* Override slick carousel styles */
+.slick-slider .slick-track {
+    transform: none !important; /* Remove the transform effect */
+}
